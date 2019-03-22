@@ -1,0 +1,1149 @@
+{
+    "data": [
+        {
+            "boxList": [
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "a367fe75a9d1441e87e5953019fdc348",
+                            "pfColor": "",
+                            "pfContent": "tv",
+                            "pfEnabled": "",
+                            "pfId": "9ef7fc814fea42d1b6243521f75df35c",
+                            "pfImage": "/upload/logo.jpg",
+                            "pfLocation": "x:1,y:1,w:2,h:1",
+                            "pfModId": "1",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "9ef7fc814fea42d1b6243521f75df35c",
+                                    "psId": "011b08e2d60940e6b694936330bec44d",
+                                    "psSubtitile": "234234"
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "a367fe75a9d1441e87e5953019fdc348",
+                    "pbIndex": "1",
+                    "pbPanelid": "4759609033954d4cb4e5b49db3d02e8d",
+                    "pbStyle": "1"
+                },
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "cc804c6f22244f1ab7b3a9dfefaad95b",
+                            "pfColor": "#00ff66",
+                            "pfContent": "video",
+                            "pfEnabled": "",
+                            "pfId": "e452793854004ef1a371eecf079e5973",
+                            "pfImage": "/upload/logo.jpg",
+                            "pfLocation": "x:3,y:1,w:2,h:1",
+                            "pfModId": "2",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "e452793854004ef1a371eecf079e5973",
+                                    "psId": "c0d0fe9e6f354f06a25754405acaa9b5",
+                                    "psSubtitile": "234234"
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "cc804c6f22244f1ab7b3a9dfefaad95b",
+                    "pbIndex": "3",
+                    "pbPanelid": "4759609033954d4cb4e5b49db3d02e8d",
+                    "pbStyle": "1"
+                },
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "fcb09a71ac5244dcb9223dab0a16549a",
+                            "pfColor": "#00ff00",
+                            "pfContent": "888888",
+                            "pfEnabled": "",
+                            "pfId": "3c3c98d7b4444d739819d3e5516f6525",
+                            "pfImage": "",
+                            "pfLocation": "x:2,y:1,w:2,h:1",
+                            "pfModId": "3",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "3c3c98d7b4444d739819d3e5516f6525",
+                                    "psId": "68b681468bbb456292eb8d30a9e9faad",
+                                    "psSubtitile": "7777"
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "fcb09a71ac5244dcb9223dab0a16549a",
+                    "pbIndex": "2",
+                    "pbPanelid": "4759609033954d4cb4e5b49db3d02e8d",
+                    "pbStyle": "1"
+                }
+            ],
+            "plEnabled": "enabled",
+            "plId": "4759609033954d4cb4e5b49db3d02e8d",
+            "plImage": "",
+            "plTitle": "home"
+        },
+        {
+            "boxList": [
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "943ba8a1172a4e42839c30259da674b6",
+                            "pfColor": "#0000ff",
+                            "pfContent": "345345",
+                            "pfEnabled": "",
+                            "pfId": "9e0f0624a72a4367984cfa0a15152cbc",
+                            "pfImage": "/upload/logo.jpg",
+                            "pfLocation": "x:1,y:1,w:2,h:1",
+                            "pfModId": "1",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "9e0f0624a72a4367984cfa0a15152cbc",
+                                    "psId": "d9ea6de0ed8b438f9ef8ce9e915f1122",
+                                    "psSubtitile": "345345"
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "83ce33afa5d7402186eb4fd91937e0a4",
+                    "pbIndex": "3",
+                    "pbPanelid": "f47aa7100104411ab8983fdb5aa0de43",
+                    "pbStyle": ""
+                },
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "943ba8a1172a4e42839c30259da674b6",
+                            "pfColor": "#0000ff",
+                            "pfContent": "345345",
+                            "pfEnabled": "",
+                            "pfId": "9e0f0624a72a4367984cfa0a15152cbc",
+                            "pfImage": "/upload/logo.jpg",
+                            "pfLocation": "x:2,y:1,w:2,h:1",
+                            "pfModId": "1",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "9e0f0624a72a4367984cfa0a15152cbc",
+                                    "psId": "d9ea6de0ed8b438f9ef8ce9e915f1122",
+                                    "psSubtitile": "345345"
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "83ce33afa5d7402186eb4fd91937e0a4",
+                    "pbIndex": "3",
+                    "pbPanelid": "f47aa7100104411ab8983fdb5aa0de43",
+                    "pbStyle": ""
+                },
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "943ba8a1172a4e42839c30259da674b6",
+                            "pfColor": "#0000ff",
+                            "pfContent": "345345",
+                            "pfEnabled": "",
+                            "pfId": "9e0f0624a72a4367984cfa0a15152cbc",
+                            "pfImage": "/upload/logo.jpg",
+                            "pfLocation": "x:3,y:1,w:2,h:1",
+                            "pfModId": "1",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "9e0f0624a72a4367984cfa0a15152cbc",
+                                    "psId": "d9ea6de0ed8b438f9ef8ce9e915f1122",
+                                    "psSubtitile": "345345"
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "943ba8a1172a4e42839c30259da674b6",
+                    "pbIndex": "2",
+                    "pbPanelid": "f47aa7100104411ab8983fdb5aa0de43",
+                    "pbStyle": "1"
+                },
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "c321ec22b2ce4c85934851793302f4f3",
+                            "pfColor": "#00ff66",
+                            "pfContent": "234234",
+                            "pfEnabled": "",
+                            "pfId": "f5ce156f4f244653af836305686e8131",
+                            "pfImage": "/upload/movie.png",
+                            "pfLocation": "x:1,y:2,w:2,h:1",
+                            "pfModId": "1",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "f5ce156f4f244653af836305686e8131",
+                                    "psId": "63f59f7e92bf454f9d671fdae8119a8d",
+                                    "psSubtitile": "fdfq2r"
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "c321ec22b2ce4c85934851793302f4f3",
+                    "pbIndex": "1",
+                    "pbPanelid": "f47aa7100104411ab8983fdb5aa0de43",
+                    "pbStyle": ""
+                },
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "943ba8a1172a4e42839c30259da674b6",
+                            "pfColor": "#0000ff",
+                            "pfContent": "345345",
+                            "pfEnabled": "",
+                            "pfId": "9e0f0624a72a4367984cfa0a15152cbc",
+                            "pfImage": "/upload/logo.jpg",
+                            "pfLocation": "x:2,y:2,w:2,h:1",
+                            "pfModId": "1",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "9e0f0624a72a4367984cfa0a15152cbc",
+                                    "psId": "d9ea6de0ed8b438f9ef8ce9e915f1122",
+                                    "psSubtitile": "345345"
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "943ba8a1172a4e42839c30259da674b6",
+                    "pbIndex": "2",
+                    "pbPanelid": "f47aa7100104411ab8983fdb5aa0de43",
+                    "pbStyle": "1"
+                },
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "c321ec22b2ce4c85934851793302f4f3",
+                            "pfColor": "#00ff66",
+                            "pfContent": "234234",
+                            "pfEnabled": "",
+                            "pfId": "f5ce156f4f244653af836305686e8131",
+                            "pfImage": "/upload/movie.png",
+                            "pfLocation": "x:3,y:2,w:2,h:1",
+                            "pfModId": "1",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "f5ce156f4f244653af836305686e8131",
+                                    "psId": "63f59f7e92bf454f9d671fdae8119a8d",
+                                    "psSubtitile": "fdfq2r"
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "c321ec22b2ce4c85934851793302f4f3",
+                    "pbIndex": "1",
+                    "pbPanelid": "f47aa7100104411ab8983fdb5aa0de43",
+                    "pbStyle": ""
+                }
+            ],
+            "plEnabled": "enabled",
+            "plId": "f47aa7100104411ab8983fdb5aa0de43",
+            "plImage": "",
+            "plTitle": "651a3sd1f"
+        },
+        {
+            "boxList": [
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "a367fe75a9d1441e87e5953019fdc348",
+                            "pfColor": "",
+                            "pfContent": "zhunianjixiang",
+                            "pfEnabled": "",
+                            "pfId": "9ef7fc814fea42d1b6243521f75df35c",
+                            "pfImage": "/upload/logo.jpg",
+                            "pfLocation": "x:1,y:1,w:2,h:1",
+                            "pfModId": "1",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "9ef7fc814fea42d1b6243521f75df35c",
+                                    "psId": "011b08e2d60940e6b694936330bec44d",
+                                    "psSubtitile": "234234"
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "b9c466186fff4ac4b8fafbb503b71f18",
+                    "pbIndex": "2",
+                    "pbPanelid": "f60dadf041c74aca8d3fd396b0b4261d",
+                    "pbStyle": "2"
+                },
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "4b7cf1d8f9474faf9863f305f61d4360",
+                            "pfColor": "#ffffff",
+                            "pfContent": "3",
+                            "pfEnabled": "",
+                            "pfId": "22d746007628470990997c3985e34536",
+                            "pfImage": "/upload/logo.jpg",
+                            "pfLocation": "x:3,y:1,w:1,h:1",
+                            "pfModId": "26",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "22d746007628470990997c3985e34536",
+                                    "psId": "1bcf55c7a19e4fa5ade7d411ff9d1048",
+                                    "psSubtitile": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "4b7cf1d8f9474faf9863f305f61d4360",
+                    "pbIndex": "3",
+                    "pbPanelid": "f79eb707c0614eb79fbe59dafe3b9cc5",
+                    "pbStyle": "1"
+                },
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "4b7cf1d8f9474faf9863f305f61d4360",
+                            "pfColor": "#ffffff",
+                            "pfContent": "3",
+                            "pfEnabled": "",
+                            "pfId": "22d746007628470990997c3985e34536",
+                            "pfImage": "/upload/logo.jpg",
+                            "pfLocation": "x:4,y:1,w:1,h:1",
+                            "pfModId": "26",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "22d746007628470990997c3985e34536",
+                                    "psId": "1bcf55c7a19e4fa5ade7d411ff9d1048",
+                                    "psSubtitile": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "4b7cf1d8f9474faf9863f305f61d4360",
+                    "pbIndex": "3",
+                    "pbPanelid": "f79eb707c0614eb79fbe59dafe3b9cc5",
+                    "pbStyle": "1"
+                },
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "4b7cf1d8f9474faf9863f305f61d4360",
+                            "pfColor": "#ffffff",
+                            "pfContent": "3",
+                            "pfEnabled": "",
+                            "pfId": "22d746007628470990997c3985e34536",
+                            "pfImage": "/upload/logo.jpg",
+                            "pfLocation": "x:5,y:1,w:1,h:1",
+                            "pfModId": "26",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "22d746007628470990997c3985e34536",
+                                    "psId": "1bcf55c7a19e4fa5ade7d411ff9d1048",
+                                    "psSubtitile": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "4b7cf1d8f9474faf9863f305f61d4360",
+                    "pbIndex": "3",
+                    "pbPanelid": "f79eb707c0614eb79fbe59dafe3b9cc5",
+                    "pbStyle": "1"
+                },
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "4b7cf1d8f9474faf9863f305f61d4360",
+                            "pfColor": "#ffffff",
+                            "pfContent": "3",
+                            "pfEnabled": "",
+                            "pfId": "22d746007628470990997c3985e34536",
+                            "pfImage": "/upload/logo.jpg",
+                            "pfLocation": "x:6,y:1,w:1,h:1",
+                            "pfModId": "26",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "22d746007628470990997c3985e34536",
+                                    "psId": "1bcf55c7a19e4fa5ade7d411ff9d1048",
+                                    "psSubtitile": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "4b7cf1d8f9474faf9863f305f61d4360",
+                    "pbIndex": "3",
+                    "pbPanelid": "f79eb707c0614eb79fbe59dafe3b9cc5",
+                    "pbStyle": "1"
+                },
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "a367fe75a9d1441e87e5953019fdc348",
+                            "pfColor": "",
+                            "pfContent": "zhunianjixiang",
+                            "pfEnabled": "",
+                            "pfId": "9ef7fc814fea42d1b6243521f75df35c",
+                            "pfImage": "/upload/logo.jpg",
+                            "pfLocation": "x:1,y:2,w:1,h:1",
+                            "pfModId": "1",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "9ef7fc814fea42d1b6243521f75df35c",
+                                    "psId": "011b08e2d60940e6b694936330bec44d",
+                                    "psSubtitile": "234234"
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "b9c466186fff4ac4b8fafbb503b71f18",
+                    "pbIndex": "2",
+                    "pbPanelid": "f60dadf041c74aca8d3fd396b0b4261d",
+                    "pbStyle": "2"
+                },
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "4b7cf1d8f9474faf9863f305f61d4360",
+                            "pfColor": "#ffffff",
+                            "pfContent": "3",
+                            "pfEnabled": "",
+                            "pfId": "22d746007628470990997c3985e34536",
+                            "pfImage": "/upload/logo.jpg",
+                            "pfLocation": "x:2,y:2,w:2,h:1",
+                            "pfModId": "26",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "22d746007628470990997c3985e34536",
+                                    "psId": "1bcf55c7a19e4fa5ade7d411ff9d1048",
+                                    "psSubtitile": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "4b7cf1d8f9474faf9863f305f61d4360",
+                    "pbIndex": "3",
+                    "pbPanelid": "f79eb707c0614eb79fbe59dafe3b9cc5",
+                    "pbStyle": "1"
+                },
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "4b7cf1d8f9474faf9863f305f61d4360",
+                            "pfColor": "#ffffff",
+                            "pfContent": "3",
+                            "pfEnabled": "",
+                            "pfId": "22d746007628470990997c3985e34536",
+                            "pfImage": "/upload/logo.jpg",
+                            "pfLocation": "x:2,y:2,w:1,h:1",
+                            "pfModId": "26",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "22d746007628470990997c3985e34536",
+                                    "psId": "1bcf55c7a19e4fa5ade7d411ff9d1048",
+                                    "psSubtitile": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "4b7cf1d8f9474faf9863f305f61d4360",
+                    "pbIndex": "3",
+                    "pbPanelid": "f79eb707c0614eb79fbe59dafe3b9cc5",
+                    "pbStyle": "1"
+                },
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "4b7cf1d8f9474faf9863f305f61d4360",
+                            "pfColor": "#ffffff",
+                            "pfContent": "3",
+                            "pfEnabled": "",
+                            "pfId": "22d746007628470990997c3985e34536",
+                            "pfImage": "/upload/logo.jpg",
+                            "pfLocation": "x:5,y:2,w:1,h:1",
+                            "pfModId": "26",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "22d746007628470990997c3985e34536",
+                                    "psId": "1bcf55c7a19e4fa5ade7d411ff9d1048",
+                                    "psSubtitile": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "4b7cf1d8f9474faf9863f305f61d4360",
+                    "pbIndex": "3",
+                    "pbPanelid": "f79eb707c0614eb79fbe59dafe3b9cc5",
+                    "pbStyle": "1"
+                },
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "4b7cf1d8f9474faf9863f305f61d4360",
+                            "pfColor": "#ffffff",
+                            "pfContent": "3",
+                            "pfEnabled": "",
+                            "pfId": "22d746007628470990997c3985e34536",
+                            "pfImage": "/upload/logo.jpg",
+                            "pfLocation": "x:6,y:2,w:1,h:1",
+                            "pfModId": "26",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "22d746007628470990997c3985e34536",
+                                    "psId": "1bcf55c7a19e4fa5ade7d411ff9d1048",
+                                    "psSubtitile": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "4b7cf1d8f9474faf9863f305f61d4360",
+                    "pbIndex": "3",
+                    "pbPanelid": "f79eb707c0614eb79fbe59dafe3b9cc5",
+                    "pbStyle": "1"
+                }
+            ],
+            "plEnabled": "enabled",
+            "plId": "f60dadf041c74aca8d3fd396b0b4261d",
+            "plImage": "",
+            "plTitle": "999we66 "
+        },
+        {
+            "boxList": [
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "22ebeafa640e47d68f136565a85665ae",
+                            "pfColor": "#ffffff",
+                            "pfContent": "2",
+                            "pfEnabled": "",
+                            "pfId": "32b48fa9b6ac4f50b46090d73f1b5366",
+                            "pfImage": "/upload/logo.jpg",
+                            "pfLocation": "logo.png",
+                            "pfModId": "2",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "32b48fa9b6ac4f50b46090d73f1b5366",
+                                    "psId": "605a1344880b466b8a5a4f793f308454",
+                                    "psSubtitile": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "22ebeafa640e47d68f136565a85665ae",
+                    "pbIndex": "2",
+                    "pbPanelid": "f79eb707c0614eb79fbe59dafe3b9cc5",
+                    "pbStyle": "1"
+                },
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "6d37627bb97e4aa4b9c1600eb6acf6bb",
+                            "pfColor": "#ffffff",
+                            "pfContent": "1",
+                            "pfEnabled": "",
+                            "pfId": "c606f013362649f29fa76895c815e8f3",
+                            "pfImage": "/upload/logo.jpg",
+                            "pfLocation": "x:1,y:1,w:2,h:2",
+                            "pfModId": "1",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "c606f013362649f29fa76895c815e8f3",
+                                    "psId": "9b0640fea25247a49e85468ded5d6308",
+                                    "psSubtitile": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "6d37627bb97e4aa4b9c1600eb6acf6bb",
+                    "pbIndex": "1",
+                    "pbPanelid": "f79eb707c0614eb79fbe59dafe3b9cc5",
+                    "pbStyle": "1"
+                }
+            ],
+            "plEnabled": "enabled",
+            "plId": "f79eb707c0614eb79fbe59dafe3b9cc5",
+            "plImage": "",
+            "plTitle": "96969696"
+        },
+        {
+            "boxList": [
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "a367fe75a9d1441e87e5953019fdc348",
+                            "pfColor": "",
+                            "pfContent": "zhunianjixiang",
+                            "pfEnabled": "",
+                            "pfId": "9ef7fc814fea42d1b6243521f75df35c",
+                            "pfImage": "/upload/logo.jpg",
+                            "pfLocation": "x:1,y:1,w:1,h:1",
+                            "pfModId": "1",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "9ef7fc814fea42d1b6243521f75df35c",
+                                    "psId": "011b08e2d60940e6b694936330bec44d",
+                                    "psSubtitile": "234234"
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "b9c466186fff4ac4b8fafbb503b71f18",
+                    "pbIndex": "2",
+                    "pbPanelid": "f60dadf041c74aca8d3fd396b0b4261d",
+                    "pbStyle": "2"
+                },
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "a367fe75a9d1441e87e5953019fdc348",
+                            "pfColor": "",
+                            "pfContent": "zhunianjixiang",
+                            "pfEnabled": "",
+                            "pfId": "9ef7fc814fea42d1b6243521f75df35c",
+                            "pfImage": "/upload/logo.jpg",
+                            "pfLocation": "x:2,y:1,w:1,h:1",
+                            "pfModId": "1",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "9ef7fc814fea42d1b6243521f75df35c",
+                                    "psId": "011b08e2d60940e6b694936330bec44d",
+                                    "psSubtitile": "234234"
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "f1a0029a46314b109f5d3f3d5a0c911c",
+                    "pbIndex": "3",
+                    "pbPanelid": "f60dadf041c74aca8d3fd396b0b4261d",
+                    "pbStyle": "5"
+                },
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "4b7cf1d8f9474faf9863f305f61d4360",
+                            "pfColor": "#ffffff",
+                            "pfContent": "3",
+                            "pfEnabled": "",
+                            "pfId": "22d746007628470990997c3985e34536",
+                            "pfImage": "/upload/logo.jpg",
+                            "pfLocation": "x:3,y:1,w:1,h:1",
+                            "pfModId": "26",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "22d746007628470990997c3985e34536",
+                                    "psId": "1bcf55c7a19e4fa5ade7d411ff9d1048",
+                                    "psSubtitile": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "4b7cf1d8f9474faf9863f305f61d4360",
+                    "pbIndex": "3",
+                    "pbPanelid": "f79eb707c0614eb79fbe59dafe3b9cc5",
+                    "pbStyle": "1"
+                },
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "4b7cf1d8f9474faf9863f305f61d4360",
+                            "pfColor": "#ffffff",
+                            "pfContent": "3",
+                            "pfEnabled": "",
+                            "pfId": "22d746007628470990997c3985e34536",
+                            "pfImage": "/upload/logo.jpg",
+                            "pfLocation": "x:4,y:1,w:1,h:1",
+                            "pfModId": "26",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "22d746007628470990997c3985e34536",
+                                    "psId": "1bcf55c7a19e4fa5ade7d411ff9d1048",
+                                    "psSubtitile": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "4b7cf1d8f9474faf9863f305f61d4360",
+                    "pbIndex": "3",
+                    "pbPanelid": "f79eb707c0614eb79fbe59dafe3b9cc5",
+                    "pbStyle": "1"
+                },
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "4b7cf1d8f9474faf9863f305f61d4360",
+                            "pfColor": "#ffffff",
+                            "pfContent": "3",
+                            "pfEnabled": "",
+                            "pfId": "22d746007628470990997c3985e34536",
+                            "pfImage": "/upload/logo.jpg",
+                            "pfLocation": "x:5,y:1,w:1,h:1",
+                            "pfModId": "26",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "22d746007628470990997c3985e34536",
+                                    "psId": "1bcf55c7a19e4fa5ade7d411ff9d1048",
+                                    "psSubtitile": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "4b7cf1d8f9474faf9863f305f61d4360",
+                    "pbIndex": "3",
+                    "pbPanelid": "f79eb707c0614eb79fbe59dafe3b9cc5",
+                    "pbStyle": "1"
+                },
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "4b7cf1d8f9474faf9863f305f61d4360",
+                            "pfColor": "#ffffff",
+                            "pfContent": "3",
+                            "pfEnabled": "",
+                            "pfId": "22d746007628470990997c3985e34536",
+                            "pfImage": "/upload/logo.jpg",
+                            "pfLocation": "x:6,y:1,w:1,h:1",
+                            "pfModId": "26",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "22d746007628470990997c3985e34536",
+                                    "psId": "1bcf55c7a19e4fa5ade7d411ff9d1048",
+                                    "psSubtitile": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "4b7cf1d8f9474faf9863f305f61d4360",
+                    "pbIndex": "3",
+                    "pbPanelid": "f79eb707c0614eb79fbe59dafe3b9cc5",
+                    "pbStyle": "1"
+                },
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "a367fe75a9d1441e87e5953019fdc348",
+                            "pfColor": "",
+                            "pfContent": "zhunianjixiang",
+                            "pfEnabled": "",
+                            "pfId": "9ef7fc814fea42d1b6243521f75df35c",
+                            "pfImage": "/upload/logo.jpg",
+                            "pfLocation": "x:1,y:2,w:1,h:1",
+                            "pfModId": "1",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "9ef7fc814fea42d1b6243521f75df35c",
+                                    "psId": "011b08e2d60940e6b694936330bec44d",
+                                    "psSubtitile": "234234"
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "b9c466186fff4ac4b8fafbb503b71f18",
+                    "pbIndex": "2",
+                    "pbPanelid": "f60dadf041c74aca8d3fd396b0b4261d",
+                    "pbStyle": "2"
+                },
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "a367fe75a9d1441e87e5953019fdc348",
+                            "pfColor": "",
+                            "pfContent": "zhunianjixiang",
+                            "pfEnabled": "",
+                            "pfId": "9ef7fc814fea42d1b6243521f75df35c",
+                            "pfImage": "/upload/logo.jpg",
+                            "pfLocation": "x:2,y:2,w:1,h:1",
+                            "pfModId": "1",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "9ef7fc814fea42d1b6243521f75df35c",
+                                    "psId": "011b08e2d60940e6b694936330bec44d",
+                                    "psSubtitile": "234234"
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "f1a0029a46314b109f5d3f3d5a0c911c",
+                    "pbIndex": "3",
+                    "pbPanelid": "f60dadf041c74aca8d3fd396b0b4261d",
+                    "pbStyle": "5"
+                },
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "4b7cf1d8f9474faf9863f305f61d4360",
+                            "pfColor": "#ffffff",
+                            "pfContent": "3",
+                            "pfEnabled": "",
+                            "pfId": "22d746007628470990997c3985e34536",
+                            "pfImage": "/upload/logo.jpg",
+                            "pfLocation": "x:3,y:2,w:1,h:1",
+                            "pfModId": "26",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "22d746007628470990997c3985e34536",
+                                    "psId": "1bcf55c7a19e4fa5ade7d411ff9d1048",
+                                    "psSubtitile": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "4b7cf1d8f9474faf9863f305f61d4360",
+                    "pbIndex": "3",
+                    "pbPanelid": "f79eb707c0614eb79fbe59dafe3b9cc5",
+                    "pbStyle": "1"
+                },
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "4b7cf1d8f9474faf9863f305f61d4360",
+                            "pfColor": "#ffffff",
+                            "pfContent": "3",
+                            "pfEnabled": "",
+                            "pfId": "22d746007628470990997c3985e34536",
+                            "pfImage": "/upload/logo.jpg",
+                            "pfLocation": "x:4,y:2,w:1,h:1",
+                            "pfModId": "26",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "22d746007628470990997c3985e34536",
+                                    "psId": "1bcf55c7a19e4fa5ade7d411ff9d1048",
+                                    "psSubtitile": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "4b7cf1d8f9474faf9863f305f61d4360",
+                    "pbIndex": "3",
+                    "pbPanelid": "f79eb707c0614eb79fbe59dafe3b9cc5",
+                    "pbStyle": "1"
+                },
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "4b7cf1d8f9474faf9863f305f61d4360",
+                            "pfColor": "#ffffff",
+                            "pfContent": "3",
+                            "pfEnabled": "",
+                            "pfId": "22d746007628470990997c3985e34536",
+                            "pfImage": "/upload/logo.jpg",
+                            "pfLocation": "x:5,y:2,w:1,h:1",
+                            "pfModId": "26",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "22d746007628470990997c3985e34536",
+                                    "psId": "1bcf55c7a19e4fa5ade7d411ff9d1048",
+                                    "psSubtitile": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "4b7cf1d8f9474faf9863f305f61d4360",
+                    "pbIndex": "3",
+                    "pbPanelid": "f79eb707c0614eb79fbe59dafe3b9cc5",
+                    "pbStyle": "1"
+                },
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "4b7cf1d8f9474faf9863f305f61d4360",
+                            "pfColor": "#ffffff",
+                            "pfContent": "3",
+                            "pfEnabled": "",
+                            "pfId": "22d746007628470990997c3985e34536",
+                            "pfImage": "/upload/logo.jpg",
+                            "pfLocation": "x:6,y:2,w:1,h:1",
+                            "pfModId": "26",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "22d746007628470990997c3985e34536",
+                                    "psId": "1bcf55c7a19e4fa5ade7d411ff9d1048",
+                                    "psSubtitile": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "4b7cf1d8f9474faf9863f305f61d4360",
+                    "pbIndex": "3",
+                    "pbPanelid": "f79eb707c0614eb79fbe59dafe3b9cc5",
+                    "pbStyle": "1"
+                }
+            ],
+            "plEnabled": "enabled",
+            "plId": "f60dadf041c74aca8d3fd396b0b4261d",
+            "plImage": "",
+            "plTitle": "gfour "
+        },
+        {
+            "boxList": [
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "a367fe75a9d1441e87e5953019fdc348",
+                            "pfColor": "",
+                            "pfContent": "zhunianjixiang",
+                            "pfEnabled": "",
+                            "pfId": "9ef7fc814fea42d1b6243521f75df35c",
+                            "pfImage": "/upload/logo.jpg",
+                            "pfLocation": "x:1,y:1,w:1,h:1",
+                            "pfModId": "1",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "9ef7fc814fea42d1b6243521f75df35c",
+                                    "psId": "011b08e2d60940e6b694936330bec44d",
+                                    "psSubtitile": "234234"
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "b9c466186fff4ac4b8fafbb503b71f18",
+                    "pbIndex": "2",
+                    "pbPanelid": "f60dadf041c74aca8d3fd396b0b4261d",
+                    "pbStyle": "2"
+                },
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "a367fe75a9d1441e87e5953019fdc348",
+                            "pfColor": "",
+                            "pfContent": "zhunianjixiang",
+                            "pfEnabled": "",
+                            "pfId": "9ef7fc814fea42d1b6243521f75df35c",
+                            "pfImage": "/upload/logo.jpg",
+                            "pfLocation": "x:2,y:1,w:1,h:1",
+                            "pfModId": "1",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "9ef7fc814fea42d1b6243521f75df35c",
+                                    "psId": "011b08e2d60940e6b694936330bec44d",
+                                    "psSubtitile": "234234"
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "f1a0029a46314b109f5d3f3d5a0c911c",
+                    "pbIndex": "3",
+                    "pbPanelid": "f60dadf041c74aca8d3fd396b0b4261d",
+                    "pbStyle": "5"
+                },
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "4b7cf1d8f9474faf9863f305f61d4360",
+                            "pfColor": "#ffffff",
+                            "pfContent": "3",
+                            "pfEnabled": "",
+                            "pfId": "22d746007628470990997c3985e34536",
+                            "pfImage": "/upload/logo.jpg",
+                            "pfLocation": "x:3,y:1,w:1,h:1",
+                            "pfModId": "26",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "22d746007628470990997c3985e34536",
+                                    "psId": "1bcf55c7a19e4fa5ade7d411ff9d1048",
+                                    "psSubtitile": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "4b7cf1d8f9474faf9863f305f61d4360",
+                    "pbIndex": "3",
+                    "pbPanelid": "f79eb707c0614eb79fbe59dafe3b9cc5",
+                    "pbStyle": "1"
+                },
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "4b7cf1d8f9474faf9863f305f61d4360",
+                            "pfColor": "#ffffff",
+                            "pfContent": "3",
+                            "pfEnabled": "",
+                            "pfId": "22d746007628470990997c3985e34536",
+                            "pfImage": "/upload/logo.jpg",
+                            "pfLocation": "x:4,y:1,w:1,h:1",
+                            "pfModId": "26",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "22d746007628470990997c3985e34536",
+                                    "psId": "1bcf55c7a19e4fa5ade7d411ff9d1048",
+                                    "psSubtitile": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "4b7cf1d8f9474faf9863f305f61d4360",
+                    "pbIndex": "3",
+                    "pbPanelid": "f79eb707c0614eb79fbe59dafe3b9cc5",
+                    "pbStyle": "1"
+                },
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "4b7cf1d8f9474faf9863f305f61d4360",
+                            "pfColor": "#ffffff",
+                            "pfContent": "3",
+                            "pfEnabled": "",
+                            "pfId": "22d746007628470990997c3985e34536",
+                            "pfImage": "/upload/logo.jpg",
+                            "pfLocation": "x:5,y:1,w:1,h:1",
+                            "pfModId": "26",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "22d746007628470990997c3985e34536",
+                                    "psId": "1bcf55c7a19e4fa5ade7d411ff9d1048",
+                                    "psSubtitile": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "4b7cf1d8f9474faf9863f305f61d4360",
+                    "pbIndex": "3",
+                    "pbPanelid": "f79eb707c0614eb79fbe59dafe3b9cc5",
+                    "pbStyle": "1"
+                },
+                {
+                    "featureList": [
+                        {
+                            "pfBoxid": "4b7cf1d8f9474faf9863f305f61d4360",
+                            "pfColor": "#ffffff",
+                            "pfContent": "3",
+                            "pfEnabled": "",
+                            "pfId": "22d746007628470990997c3985e34536",
+                            "pfImage": "/upload/logo.jpg",
+                            "pfLocation": "x:6,y:1,w:1,h:1",
+                            "pfModId": "26",
+                            "pfUrl": "/api/xml/channel_list",
+                            "subtitileList": [
+                                {
+                                    "psEnabled": "",
+                                    "psFeaid": "22d746007628470990997c3985e34536",
+                                    "psId": "1bcf55c7a19e4fa5ade7d411ff9d1048",
+                                    "psSubtitile": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "pbEnabled": "enabled",
+                    "pbId": "4b7cf1d8f9474faf9863f305f61d4360",
+                    "pbIndex": "3",
+                    "pbPanelid": "f79eb707c0614eb79fbe59dafe3b9cc5",
+                    "pbStyle": "1"
+                }
+            ],
+            "plEnabled": "enabled",
+            "plId": "f60dadf041c74aca8d3fd396b0b4261d",
+            "plImage": "",
+            "plTitle": "gfourtest "
+        }
+    ],
+    "msg": "welcome",
+    "status": "true",
+    "sysConfig": {
+        "firstStartId": ""
+    }
+}
