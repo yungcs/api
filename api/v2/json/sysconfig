@@ -3,4 +3,5 @@
 	intercutBack="1",
 	isForceUpdate="1",
 	intercut="1"
+	bgMusic = "0"
 }
